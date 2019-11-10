@@ -8,4 +8,4 @@ You must have Python 3 installed to run this program. Once you have installed Py
 
 Please don't share this software without my persmission as this violates the terms of the GNU Affero General Public License which this software is licensed with.
 
-If you wish to share this software, please email me at harveyedwards@aol.com
+If you wish to share this software, or need help with its use, please email me at harveyedwards@aol.com
